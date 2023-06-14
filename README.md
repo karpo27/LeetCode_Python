@@ -6,7 +6,9 @@ In this repository you will find several problemas and solutions from my Python 
 
 My public profile: https://leetcode.com/karpo27/
 
-Every folder has a:
+You have the problems divided in 3 categories as follows: Easy, Medium, Hard
+
+Inside each category every problem folder has a:
 
 1- "Instructions" file (.md), wich contains the statements for the exercise.
 
