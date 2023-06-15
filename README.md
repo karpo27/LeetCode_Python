@@ -6,7 +6,7 @@ In this repository you will find several problemas and solutions from my Python 
 
 My public profile: https://leetcode.com/karpo27/
 
-You have the problems divided in 3 categories as follows: Easy, Medium, Hard
+You have the problems divided in 3 categories as follows: Easy, Medium (coming soon), Hard (coming soon)
 
 Inside each category every problem folder has a:
 
